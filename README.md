@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itskenks10
-- 👀 I’m interested in front-end development
+- 👀 Looking to become a full-stack devloper.
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me,my email-itskenks10@gmail.com
